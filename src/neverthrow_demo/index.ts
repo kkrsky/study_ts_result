@@ -22,4 +22,6 @@ import {
 // import "./Result/combineWithAllErrors";
 
 // ResultAsync
-import "./ResultAsync/okAsync";
+// import "./ResultAsync/okAsync";
+// import "./ResultAsync/fromPromise";
+import "./ResultAsync/map";
