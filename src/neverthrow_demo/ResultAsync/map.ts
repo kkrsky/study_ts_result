@@ -1,6 +1,7 @@
 import { setTimeout } from "timers/promises";
 import { Result, ok, err, ResultAsync, okAsync, errAsync } from "neverthrow";
 
+
 async function asyncDivide(a: number, b: number): Promise<number> {
   await setTimeout(1000);
 
